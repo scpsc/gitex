@@ -1,6 +1,6 @@
 # King Crimson -- Red (1974)
 
-Arthur Delorme
+## Arthur Delorme
 
 ![Cover](articles/Red_King_Crimson.jpeg)
 
