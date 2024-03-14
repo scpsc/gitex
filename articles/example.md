@@ -1,4 +1,8 @@
-King Crimson -- Red (1974)
+# King Crimson -- Red (1974)
+
+Arthur Delorme
+
+![Cover](articles/Red_King_Crimson.jpeg)
 
 Le trio Fripp, Wetton, Bruford est réuni sur cet album, d'une efficacité redoutable. Les morceaux live nous laissent aussi entendre le violon de David Cross, qui n'est plus crédité en tant que membre du groupe.
 
