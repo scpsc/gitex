@@ -2,7 +2,7 @@
 
 ## Arthur Delorme
 
-![Cover](https://en.wikipedia.org/wiki/File:Red,_King_Crimson.jpg#/media/File:Red,_King_Crimson.jpg)
+![Cover](Red_King_Crimson.jpeg)
 
 C'est le trio Fripp, Wetton, Bruford qui est réuni sur cet album. Les morceaux live nous laissent entendre le violon de David Cross, qui n'est cependant plus crédité en tant que membre du groupe, mais en tant que musicien additionnel.
 
