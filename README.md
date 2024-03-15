@@ -1,4 +1,5 @@
 # This is an exercise
+> Hello, this is my 1st commit! (not)
 This is an exercise for the 2024 IPGP Git Class
 
 I feel like I like Git
