@@ -1,5 +1,5 @@
 # This is my 1st commit
-> Or not...
+> Or not... It's just for an exercise
 
 I feel like I like Git
 
