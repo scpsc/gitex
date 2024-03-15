@@ -9,3 +9,4 @@ I'm just adding a couple of lines, after all.
 
 I'm now adding this line, which is interesting, right?
 And even a second line here, still very interesting.
+Je mets aussi une phrase en français.
